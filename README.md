@@ -1,5 +1,5 @@
 # Vincent Udén
 
-I program stuff, mostly in C/C++ and Haskell whenever I don't need to get anything done. [Why not visit my website?](http://vincentuden.xyz/)
+I program stuff, mostly in Typescript whenever I don't need to get anything done. [Why not visit my website?](http://vincentuden.xyz/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-uden)
+Currently employed as a software developer at [EyeAtProduction](https://eyeatproduction.com/sv/) writing an Android app using Kotlin and Java.
